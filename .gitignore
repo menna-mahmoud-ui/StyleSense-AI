@@ -1,0 +1,41 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing / cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ChromaDB / Vector Store
+vector_store/
+backend/data/vector_store/
+
+# YOLO model weights
+*.pt
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

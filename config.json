@@ -1,0 +1,11 @@
+{
+    "chunk_size": 100,
+    "chunk_overlap": 20,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "vector_database": "ChromaDB",
+    "collection_name": "fashion_knowledge",
+    "llm_model": "llama3.2",
+    "yolo_model": "yolo26n",
+    "image_size": 640,
+    "confidence_threshold": 0.25
+}

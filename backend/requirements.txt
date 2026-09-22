@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+chromadb
+sentence-transformers
+openai
+python-dotenv
+ultralytics
+pillow
+numpy
+python-multipart
+pytest
+httpx
